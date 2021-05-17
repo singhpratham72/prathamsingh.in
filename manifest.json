@@ -1,11 +1,11 @@
 {
-    "name": "pratham_web",
-    "short_name": "pratham_web",
+    "name": "prathamSingh()",
+    "short_name": "prathamSingh()",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#121212",
+    "theme_color": "#892CDC",
+    "description": "Hey, this is Pratham's website.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
